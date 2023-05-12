@@ -17,3 +17,7 @@ OCP
 **LSP**
 
 ![image](https://user-images.githubusercontent.com/40399697/236974426-3c24014f-3f7f-40b9-8428-8eb760e5ba9c.png)
+
+**When must apply**
+
+![image](https://github.com/johanalex566/ArdalisRating-SOLID-Samples/assets/40399697/ba133813-53c8-40df-81e1-0810c7c3c0e7)
