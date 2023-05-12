@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ArdalisRating
 {
@@ -19,7 +15,7 @@ namespace ArdalisRating
             }
             catch
             {
-                return null;
+                return new UnknownPolicyRater(engine, engine.Logger);
             }
         }
 
