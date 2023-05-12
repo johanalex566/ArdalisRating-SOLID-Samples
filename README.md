@@ -12,3 +12,8 @@ OCP
 
 **Why**
 ![image](https://user-images.githubusercontent.com/40399697/236708717-777803d5-2e9a-4990-8e15-7a46d6d32661.png)
+
+
+**LSP**
+
+![image](https://user-images.githubusercontent.com/40399697/236974426-3c24014f-3f7f-40b9-8428-8eb760e5ba9c.png)
