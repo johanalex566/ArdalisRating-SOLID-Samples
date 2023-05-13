@@ -32,5 +32,7 @@ Result of violation ISP
 
 ![image](https://github.com/johanalex566/ArdalisRating-SOLID-Samples/assets/40399697/dded4940-de66-4734-ad18-5fcaf6c74792)
 
+How not to break legacy code: Use multiple Interface Inheritance
+![image](https://github.com/johanalex566/ArdalisRating-SOLID-Samples/assets/40399697/6e06ad33-ae9d-45de-9d1b-09b6a82ca206)
 
 
