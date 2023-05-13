@@ -30,4 +30,7 @@ Result of violation ISP
 
 ![image](https://github.com/johanalex566/ArdalisRating-SOLID-Samples/assets/40399697/f9546a95-ce62-4b18-a007-7061a721f454)
 
+![image](https://github.com/johanalex566/ArdalisRating-SOLID-Samples/assets/40399697/dded4940-de66-4734-ad18-5fcaf6c74792)
+
+
 
