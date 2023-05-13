@@ -21,3 +21,8 @@ OCP
 **When must apply**
 
 ![image](https://github.com/johanalex566/ArdalisRating-SOLID-Samples/assets/40399697/ba133813-53c8-40df-81e1-0810c7c3c0e7)
+
+**ISP**
+
+![image](https://github.com/johanalex566/ArdalisRating-SOLID-Samples/assets/40399697/12aa94e5-81fc-47bc-940e-03b48cc2c5ee)
+
