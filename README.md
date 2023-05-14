@@ -39,4 +39,11 @@ How not to break legacy code: Use multiple Interface Inheritance
 
 ![image](https://github.com/johanalex566/ArdalisRating-SOLID-Samples/assets/40399697/1009483a-517a-4caf-afca-a4e7ec8ad318)
 
+![image](https://github.com/johanalex566/ArdalisRating-SOLID-Samples/assets/40399697/bb5dc238-808d-4187-a1ef-459e93b39096)
+
+Solve fix
+
+![image](https://github.com/johanalex566/ArdalisRating-SOLID-Samples/assets/40399697/c4e18d2a-234f-4875-ad0f-710e47d7d471)
+
+
 
