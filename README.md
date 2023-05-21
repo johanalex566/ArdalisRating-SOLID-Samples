@@ -46,4 +46,8 @@ Solve fix
 ![image](https://github.com/johanalex566/ArdalisRating-SOLID-Samples/assets/40399697/c4e18d2a-234f-4875-ad0f-710e47d7d471)
 
 
+![image](https://github.com/johanalex566/ArdalisRating-SOLID-Samples/assets/40399697/287dec3f-2dc4-4a08-a7f9-57f2ecf35f62)
+
+
+
 
